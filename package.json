@@ -1,0 +1,15 @@
+{
+  "name": "nashville-ai-guide",
+  "version": "1.0.0",
+  "description": "Interactive workshop guide for Nashville AI Event - From Newbie to Ninja",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
